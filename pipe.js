@@ -1,7 +1,7 @@
 class Pipe {
     constructor() {
         this.width = 100;
-        this.gap = random(50, 300)
+        this.gap = random(150, 500)
         this.height = (height / 2) - this.gap;
         this.x = width / 1;
         this.y = height / 2;
